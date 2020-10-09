@@ -1,4 +1,4 @@
-package com.company;
+package com.observerPattern;
 
 public class Main {
 

@@ -1,7 +1,7 @@
-package com.company;
+package com.observerPattern;
 
-import com.company.interfaces.Observer;
-import com.company.interfaces.Subject;
+import com.observerPattern.interfaces.Observer;
+import com.observerPattern.interfaces.Subject;
 
 public class StockObserver implements Observer {
 

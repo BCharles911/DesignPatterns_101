@@ -1,4 +1,4 @@
-package com.company.interfaces;
+package com.observerPattern.interfaces;
 
 
 public interface Subject {
